@@ -1,4 +1,7 @@
 # uas-pemrograman-6
+#link jurnal
+(https://prosiding.unipma.ac.id/index.php/SENATIK/article/view/4570)
+(https://jurnal.larisma.or.id/index.php/EJR/article/view/314)
 
 #tampilan sebelum running
 codingan tampilan keseluruhan fitur yang ada di aplikasi match game
